@@ -2,7 +2,7 @@ package com.statickeyword;
 
 import com.statickeyword.student.Student;
 
-class Main {
+public class Main {
   public static void main(String[] args) {
 
     Student.schoolName();
